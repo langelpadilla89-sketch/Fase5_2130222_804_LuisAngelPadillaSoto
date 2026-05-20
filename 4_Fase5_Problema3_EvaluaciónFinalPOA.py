@@ -14,7 +14,7 @@ Fecha de Actualización: 20 de mayo de 2026
 
 
 # ------------------------------------------------------------------------------------------------------------------------------------------
-# PROGRAMA:     Sistema de auditaría de inventario y toma de decisiones sobre qué artículos necesitan ser reabastecidos.
+# PROGRAMA:     Sistema de auditoría de inventario y toma de decisiones sobre qué artículos necesitan ser reabastecidos.
 #
 # DESCRIPCIÓN:  Este programa permite conocer y administrar el inventario de una tienda de equipos de cómputo y periféricos, utilizando 
 #               estructuras de datos como matrices (listas) y funciones para calcular la cantidad a pedir, junto con estructuras de control
